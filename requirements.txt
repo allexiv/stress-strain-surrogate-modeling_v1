@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+optuna
+joblib
+torch
+lightgbm
+catboost
+openpyxl
+zstandard
+tqdm
+# plxscripting  <-- Included with PLAXIS installation (required only for data generation steps)
