@@ -38,7 +38,7 @@ Using a dataset of 1000 parametric FEM simulations (Hoek-Brown constitutive mode
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/allexiv/stress-strain-surrogate-modeling.git
+   git clone https://github.com/allexiv/stress-strain-surrogate-modeling_v1.git
    cd stress-strain-surrogate-modeling
    ```
 
