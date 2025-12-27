@@ -1,0 +1,24 @@
+{
+    "best_hyperparameters": {
+        "n_estimators": 1445,
+        "learning_rate": 0.09399806690660019,
+        "num_leaves": 195,
+        "max_depth": 20,
+        "min_child_samples": 57,
+        "subsample": 0.8764109691808,
+        "colsample_bytree": 0.986514232961983,
+        "reg_alpha": 0.0016550699582045857,
+        "reg_lambda": 0.0003790376677019414,
+        "objective": "regression",
+        "metric": "l2",
+        "boosting_type": "gbdt",
+        "device_type": "gpu",
+        "force_col_wise": true,
+        "verbosity": -1,
+        "n_jobs": -1,
+        "random_state": 42,
+        "gpu_platform_id": 0,
+        "gpu_device_id": 0
+    },
+    "best_r2_on_validation": 0.9710926866857624
+}

@@ -1,0 +1,21 @@
+{
+    "best_hyperparameters": {
+        "n_estimators": 456,
+        "min_samples_split": 12,
+        "min_samples_leaf": 4,
+        "max_features": 1.0,
+        "max_samples": 0.779025534027114,
+        "max_depth": 25,
+        "bootstrap": true,
+        "n_jobs": 6,
+        "warm_start": true
+    },
+    "best_r2_on_validation": 0.9518256954042136,
+    "elapsed_sec": 8367.243326425552,
+    "notes": {
+        "use_leaf_nodes": false,
+        "memmap_max_nbytes": "10M",
+        "memmap_temp_folder": null,
+        "safe_space": "bootstrap=True, max_samples∈[0.60..0.95], max_depth"
+    }
+}

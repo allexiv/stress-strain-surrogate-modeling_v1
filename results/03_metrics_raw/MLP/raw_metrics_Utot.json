@@ -1,0 +1,195 @@
+{
+  "target": "Utot",
+  "metrics_by_size": {
+    "1": {
+      "r2_mean": 0.8673758506774902,
+      "rmse_mean": 0.003059202887864137,
+      "mae_mean": 0.001966646406799555,
+      "training_time_mean": 23.448444399997243,
+      "predict_time_mean": 0.0031271666618219265,
+      "model_size_mb_mean": 0.5178031921386719
+    },
+    "2": {
+      "r2_mean": 0.5106724500656128,
+      "rmse_mean": 0.005876203426375467,
+      "mae_mean": 0.004484446719288826,
+      "training_time_mean": 11.639526700004353,
+      "predict_time_mean": 0.002900200003447632,
+      "model_size_mb_mean": 0.5178031921386719
+    },
+    "3": {
+      "r2_mean": 0.5370727181434631,
+      "rmse_mean": 0.005715489127685926,
+      "mae_mean": 0.004684763960540295,
+      "training_time_mean": 4.855384599999525,
+      "predict_time_mean": 0.0025767333378704884,
+      "model_size_mb_mean": 0.5178031921386719
+    },
+    "4": {
+      "r2_mean": 0.8356456756591797,
+      "rmse_mean": 0.0034055522895754965,
+      "mae_mean": 0.002045311499387026,
+      "training_time_mean": 9.81667450000532,
+      "predict_time_mean": 0.002682899998035282,
+      "model_size_mb_mean": 0.5178031921386719
+    },
+    "5": {
+      "r2_mean": 0.8773336410522461,
+      "rmse_mean": 0.002942116024654111,
+      "mae_mean": 0.0017015844350680709,
+      "training_time_mean": 9.642094599999837,
+      "predict_time_mean": 0.002741933334618807,
+      "model_size_mb_mean": 0.5178031921386719
+    },
+    "6": {
+      "r2_mean": 0.8308654427528381,
+      "rmse_mean": 0.0034547224299477466,
+      "mae_mean": 0.002093944000080228,
+      "training_time_mean": 9.297592300004908,
+      "predict_time_mean": 0.0028482000003956878,
+      "model_size_mb_mean": 0.5178031921386719
+    },
+    "7": {
+      "r2_mean": 0.8363993167877197,
+      "rmse_mean": 0.0033977354845294884,
+      "mae_mean": 0.002121702069416642,
+      "training_time_mean": 10.163820799993118,
+      "predict_time_mean": 0.0027554333355510607,
+      "model_size_mb_mean": 0.5178031921386719
+    },
+    "8": {
+      "r2_mean": 0.8607332110404968,
+      "rmse_mean": 0.003134878924929689,
+      "mae_mean": 0.0019002461340278387,
+      "training_time_mean": 9.448487900008331,
+      "predict_time_mean": 0.002859266664017923,
+      "model_size_mb_mean": 0.5178031921386719
+    },
+    "9": {
+      "r2_mean": 0.8820777535438538,
+      "rmse_mean": 0.002884661296885808,
+      "mae_mean": 0.0016896326560527086,
+      "training_time_mean": 10.495062100002542,
+      "predict_time_mean": 0.0032531000033486634,
+      "model_size_mb_mean": 0.5178031921386719
+    },
+    "10": {
+      "r2_mean": 0.8730063438415527,
+      "rmse_mean": 0.0029935601334680345,
+      "mae_mean": 0.0018531671958044171,
+      "training_time_mean": 8.95943950000219,
+      "predict_time_mean": 0.0028380333387758583,
+      "model_size_mb_mean": 0.5178146362304688
+    },
+    "16": {
+      "r2_mean": 0.8858262300491333,
+      "rmse_mean": 0.0028384425460402365,
+      "mae_mean": 0.0015095883281901479,
+      "training_time_mean": 11.445454699991387,
+      "predict_time_mean": 0.0032923000010972223,
+      "model_size_mb_mean": 0.5178146362304688
+    },
+    "24": {
+      "r2_mean": 0.9308419823646545,
+      "rmse_mean": 0.0022091151764650195,
+      "mae_mean": 0.001029038685373962,
+      "training_time_mean": 23.63412889999745,
+      "predict_time_mean": 0.002713699999731034,
+      "model_size_mb_mean": 0.5178146362304688
+    },
+    "32": {
+      "r2_mean": 0.9416061043739319,
+      "rmse_mean": 0.002029928209826749,
+      "mae_mean": 0.0010058274492621422,
+      "training_time_mean": 29.073334800006705,
+      "predict_time_mean": 0.0024225333327194676,
+      "model_size_mb_mean": 0.5178146362304688
+    },
+    "40": {
+      "r2_mean": 0.9523604512214661,
+      "rmse_mean": 0.0018334992675358532,
+      "mae_mean": 0.0008646257920190692,
+      "training_time_mean": 31.98347379999177,
+      "predict_time_mean": 0.0028210333305954314,
+      "model_size_mb_mean": 0.5178146362304688
+    },
+    "56": {
+      "r2_mean": 0.9667620658874512,
+      "rmse_mean": 0.0015314897553872786,
+      "mae_mean": 0.0007537850760854781,
+      "training_time_mean": 50.709627399992314,
+      "predict_time_mean": 0.002967933333517673,
+      "model_size_mb_mean": 0.5178146362304688
+    },
+    "72": {
+      "r2_mean": 0.97295081615448,
+      "rmse_mean": 0.0013815730255975233,
+      "mae_mean": 0.0006936436984688044,
+      "training_time_mean": 55.06433249999827,
+      "predict_time_mean": 0.002915366664334821,
+      "model_size_mb_mean": 0.5178146362304688
+    },
+    "80": {
+      "r2_mean": 0.9714701771736145,
+      "rmse_mean": 0.0014188823079353849,
+      "mae_mean": 0.0007021806668490171,
+      "training_time_mean": 56.796063799993135,
+      "predict_time_mean": 0.003263600000839991,
+      "model_size_mb_mean": 0.5178146362304688
+    },
+    "160": {
+      "r2_mean": 0.9805010557174683,
+      "rmse_mean": 0.001173012915647568,
+      "mae_mean": 0.0005933140055276453,
+      "training_time_mean": 77.51922820000618,
+      "predict_time_mean": 0.0031620333320461214,
+      "model_size_mb_mean": 0.5178260803222656
+    },
+    "240": {
+      "r2_mean": 0.9830079078674316,
+      "rmse_mean": 0.001095015966086297,
+      "mae_mean": 0.0005490887560881674,
+      "training_time_mean": 1005.6719559000048,
+      "predict_time_mean": 0.0029597000054006153,
+      "model_size_mb_mean": 0.5178260803222656
+    },
+    "320": {
+      "r2_mean": 0.9837824106216431,
+      "rmse_mean": 0.0010697686753449267,
+      "mae_mean": 0.0005418297369033098,
+      "training_time_mean": 1282.6857272999914,
+      "predict_time_mean": 0.002591033330342422,
+      "model_size_mb_mean": 0.5178260803222656
+    },
+    "400": {
+      "r2_mean": 0.9814132452011108,
+      "rmse_mean": 0.0011452458720534484,
+      "mae_mean": 0.0005606915219686925,
+      "training_time_mean": 1893.3361952999985,
+      "predict_time_mean": 0.0036568333356020353,
+      "model_size_mb_mean": 0.5178260803222656
+    }
+  },
+  "best_model_info": {
+    "target": "Utot",
+    "k": 320,
+    "train_rows": 3924690,
+    "r2": 0.9837824106216431,
+    "rmse": 0.0010697686753449267,
+    "mae": 0.0005418297369033098,
+    "train_time_sec": 1282.6857272999914,
+    "predict_time_sec": 0.002591033330342422,
+    "mode": "full",
+    "microbatch": null,
+    "model_size_mb": 0.5178260803222656,
+    "model_path": "C:\\Users\\ivano\\YandexDisk-Alexey\\research_project\\results\\02_trained_models\\mpl\\Utot\\model_320_Utot_best.pt"
+  },
+  "totals": {
+    "script_wall_time_sec": 36929.8728982,
+    "target_wall_time_sec": 4625.686049999989
+  },
+  "environment": {
+    "device": "cuda",
+    "gpu_name": "NVIDIA GeForce RTX 4070"
+  }
+}

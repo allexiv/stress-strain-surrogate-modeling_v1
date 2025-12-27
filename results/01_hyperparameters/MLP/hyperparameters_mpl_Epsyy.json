@@ -1,0 +1,16 @@
+{
+    "best_hyperparameters": {
+        "num_hidden_layers": 4,
+        "activation": "ReLU",
+        "learning_rate": 0.0009577609831220448,
+        "dropout": 0.2977854887503984,
+        "weight_decay": 9.888672698563428e-05,
+        "optimizer": "AdamW",
+        "layer_1_units": 447,
+        "layer_2_units": 108,
+        "layer_3_units": 124,
+        "layer_4_units": 45
+    },
+    "best_r2_on_validation": 0.8511996865272522,
+    "note": "R2 \u0438\u043d\u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0435\u043d \u043a \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u0438\u0437\u0430\u0446\u0438\u0438; \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0432\u0435\u043b\u043e\u0441\u044c \u043d\u0430 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u044b\u0445 X,y."
+}

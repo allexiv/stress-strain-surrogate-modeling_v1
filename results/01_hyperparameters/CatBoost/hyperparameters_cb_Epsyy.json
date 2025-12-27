@@ -1,0 +1,14 @@
+{
+    "best_hyperparameters": {
+        "depth": 10,
+        "learning_rate": 0.02949372944095386,
+        "l2_leaf_reg": 0.002755546207779663,
+        "bagging_temperature": 1.8234813003355335,
+        "border_count": 145,
+        "grow_policy": "Depthwise",
+        "iterations": 2916,
+        "subsample": 0.7669644012595116,
+        "rsm": 0.6888431241882921
+    },
+    "best_r2_on_validation": 0.8955926681572927
+}
