@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Protosenya"
+  given-names: "Anatoly"
+- family-names: "Ivanov"
+  given-names: "Alexey"
+title: "Data-Driven Prediction of Stress–Strain Fields Around Interacting Mining Excavations in Jointed Rock"
+doi: 10.20944/preprints202512.0880.v1
+date-released: 2025-01-01
+url: "https://github.com/allexiv/stress-strain-surrogate-modeling"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Protosenya"
+    given-names: "Anatoly"
+  - family-names: "Ivanov"
+    given-names: "Alexey"
+  doi: "10.20944/preprints202512.0880.v1"
+  journal: "Preprints"
+  title: "Data-Driven Prediction of Stress–Strain Fields Around Interacting Mining Excavations in Jointed Rock: A Comparative Study of Surrogate Models"
+  year: 2025
